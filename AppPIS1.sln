@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPIS1", "AppPIS1\AppPIS1.csproj", "{97A7D7B6-AEC3-476B-AC9E-5B6B7C050891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A7D7B6-AEC3-476B-AC9E-5B6B7C050891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A7D7B6-AEC3-476B-AC9E-5B6B7C050891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A7D7B6-AEC3-476B-AC9E-5B6B7C050891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A7D7B6-AEC3-476B-AC9E-5B6B7C050891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62FE74B1-61B7-42CC-A4AF-41B7A80B9696}
+	EndGlobalSection
+EndGlobal
