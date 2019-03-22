@@ -8,8 +8,12 @@ namespace AppPIS1
 {
     class NewClass
     {
-        int VratiDva() {
+        int VratiDva()
+        {
             return 2;
+            int VratiTri()
+            {
+                return 3;
+            }
         }
     }
-}
